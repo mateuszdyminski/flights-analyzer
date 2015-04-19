@@ -1,0 +1,62 @@
+[
+    {
+        "airportFrom": "GDN",
+        "airportTo": "PSA"
+    },
+    {
+        "airportFrom": "GDN",
+        "airportTo": "BHX"
+    },
+    {
+        "airportFrom": "GDN",
+        "airportTo": "BRS"
+    },
+    {
+        "airportFrom": "GDN",
+        "airportTo": "DUB"
+    },
+    {
+        "airportFrom": "GDN",
+        "airportTo": "EDI"
+    },
+    {
+        "airportFrom": "GDN",
+        "airportTo": "LBA"
+    },
+    {
+        "airportFrom": "GDN",
+        "airportTo": "MAN"
+    },
+    {
+        "airportFrom": "GDN",
+        "airportTo": "ORK"
+    },
+    {
+        "airportFrom": "GDN",
+        "airportTo": "STN"
+    },
+    {
+        "airportFrom": "GDN",
+        "airportTo": "RYG"
+    },
+    {
+        "airportFrom": "GDN",
+        "airportTo": "WMI"
+    },
+    {
+        "airportFrom": "GDN",
+        "airportTo": "CIA"
+    },
+    {
+        "airportFrom": "GDN",
+        "airportTo": "KRK"
+    },
+    {
+        "airportFrom": "GDN",
+        "airportTo": "WRO"
+    },
+    {
+        "airportFrom": "GDN",
+        "airportTo": "ALC"
+    }
+]
