@@ -1,0 +1,42 @@
+{
+    "flights": [
+        {
+            "outbound": {
+                "airportFrom": {
+                    "iataCode": "WRO",
+                    "name": "Wroc\u0142aw"
+                },
+                "airportTo": {
+                    "iataCode": "GDN",
+                    "name": "Gda\u0144sk"
+                },
+                "price": {
+                    "value": 59.0,
+                    "valueMainUnit": "59",
+                    "valueFractionalUnit": "00",
+                    "currencySymbol": "z\u0142"
+                },
+                "dateFrom": "2015-07-06T12:10:00.000Z",
+                "dateTo": "2015-07-06T13:15:00.000Z"
+            },
+            "summary": {
+                "price": {
+                    "value": 59.0,
+                    "valueMainUnit": "59",
+                    "valueFractionalUnit": "00",
+                    "currencySymbol": "z\u0142"
+                },
+                "advertText": null,
+                "flightViewUrl": "/pl/tanie-loty/wroclaw-do-gdansk/?out-date=2015-07-06"
+            }
+        }
+    ],
+    "count": 1,
+    "totalCount": 1,
+    "currency": {
+        "symbol": "z\u0142",
+        "maxPrice": 3000,
+        "defaultPrice": 1000
+    },
+    "currencySymbol": "z\u0142"
+}
