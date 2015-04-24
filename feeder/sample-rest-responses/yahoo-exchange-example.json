@@ -1,0 +1,18 @@
+{
+    "query": {
+        "count": 1,
+        "created": "2015-04-23T07:23:46Z",
+        "lang": "pl-PL",
+        "results": {
+            "rate": {
+                "id": "EURPLN",
+                "Name": "EUR/PLN",
+                "Rate": "3.9924",
+                "Date": "4/23/2015",
+                "Time": "8:23am",
+                "Ask": "3.9930",
+                "Bid": "3.9919"
+            }
+        }
+    }
+}

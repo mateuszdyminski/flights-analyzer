@@ -1,0 +1,37 @@
+{
+	"neo4jAddress": "http://localhost:7474/db/data",
+	"workersNo": 10,
+	"clearDb": true,
+	"currency": "PLN",
+	"from": "2015-05-01T00:00:00Z",
+	"to": "2015-05-03T00:00:00Z",
+	"currencies": [
+		{
+			"name": "CZK"
+		},
+		{
+			"name": "DKK"
+		},
+		{
+			"name": "EUR"
+		},
+		{
+			"name": "GBP"
+		},
+		{
+			"name": "HUF"
+		},
+		{
+			"name": "MAD"
+		},
+		{
+			"name": "NOK"
+		},
+		{
+			"name": "PLN"
+		},
+		{
+			"name": "SEK"
+		}
+	]
+}
